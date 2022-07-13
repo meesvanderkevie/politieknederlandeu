@@ -45,7 +45,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Gulzar&display=swap');
 
@@ -123,4 +123,17 @@ p {
 #text {
   padding: 0 30px;
 }
+
+/* On mobile */
+@media screen and (max-width: 600px) {
+  .discord-widget {
+    width: calc(100% - 20px);
+    height: 400px;
+  }
+
+  h1 {
+    top: -100px;
+  }
+}
+
 </style>
