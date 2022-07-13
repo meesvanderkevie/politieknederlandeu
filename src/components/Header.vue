@@ -55,11 +55,36 @@ a {
     font-weight: bold;
     font-size: 1.5rem;
     font-family: 'Gulzar', serif;
-    transition: all 0.5s ease-in-out;
     margin-right: 12px;
 }
 
 a:hover {
     text-decoration: underline;
+}
+
+/* On mobile */
+@media screen and (max-width: 600px) {
+    .header {
+        grid-template-columns: auto;
+        text-align: center;
+        display: block;
+    }
+
+    a {
+        font-size: 20px;
+        display: block;
+        margin-right: 0;
+    }
+
+    #header-icon {
+        display: inline-block;
+        width: 100px;
+        height: 100px;
+    }
+    
+    .header #nav {
+        display: block;
+    }
+    
 }
 </style>
