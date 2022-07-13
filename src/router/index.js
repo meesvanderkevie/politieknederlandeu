@@ -13,9 +13,9 @@ const router = createRouter({
       component: Home,
     },
     {
-      path: '/bibiotheek',
-      name: 'bibiotheek',
-      component: () => import('../views/Bibiotheek.vue')
+      path: '/bibliotheek',
+      name: 'bibliotheek',
+      component: () => import('../views/Bibliotheek.vue')
     },
     {
       path: '/nieuws',

@@ -15,7 +15,7 @@ export default {
 
   <iframe class='discord-widget' src="https://discord.com/widget?id=988867113907273729&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-  <h2>De Bibiotheek</h2>
+  <h2>De Bibliotheek</h2>
 
     <p>
       In de bibiotheek van Politiek Nederland kan je over alles en nog wat lezen.

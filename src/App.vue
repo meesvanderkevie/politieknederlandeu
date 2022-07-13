@@ -6,8 +6,8 @@
     <RouterLink to="/nieuws">
       <a>Nieuws</a>
     </RouterLink>
-   <RouterLink to="/bibiotheek">
-      <a>Bibiotheek</a>
+   <RouterLink to="/bibliotheek">
+      <a>Bibliotheek</a>
    </RouterLink>
    <RouterLink to="/over">
       <a>Over</a>
