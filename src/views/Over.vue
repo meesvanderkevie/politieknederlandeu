@@ -7,5 +7,9 @@ export default {
 }
 </script>
 <style>
-    
+    h1 {
+        font-family: Gulzar, serif;
+        font-size: 3rem;
+        text-align: center;
+    }
 </style>
