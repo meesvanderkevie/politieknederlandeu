@@ -9,7 +9,7 @@
             <RouterLink to="/about">
                 <a>Nieuws</a>
             </RouterLink>
-            <RouterLink to="/bibiotheek">
+            <RouterLink to="/bibliotheek">
                 <a>Bibliotheek</a>
             </RouterLink>
             <RouterLink to="/news">
