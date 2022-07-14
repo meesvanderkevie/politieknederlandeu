@@ -1,5 +1,5 @@
 <template>
-    <h1>Er wordt aan de bibiotheek gewerkt!</h1>
+    <h1>Er wordt aan de bibliotheek gewerkt!</h1>
 </template>
 <script>
 export default {

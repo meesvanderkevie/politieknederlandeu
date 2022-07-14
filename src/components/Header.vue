@@ -10,7 +10,7 @@
                 <a>Nieuws</a>
             </RouterLink>
             <RouterLink to="/bibliotheek">
-                <a>Bibiotheek</a>
+                <a>Bibliotheek</a>
             </RouterLink>
             <RouterLink to="/over">
                 <a>Over</a>

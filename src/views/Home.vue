@@ -14,8 +14,8 @@
           <p>
             In de bibliotheek van Politiek Nederland kan je over alles en nog wat lezen.
             Bijvoorbeeld over ideologieën, gebeurtenissen, partijen en nog veel meer.
-            De bibiotheek is nog niet af, deze wordt momenteel gebouwd op deze website.
-            In de discord is er al een kleine tijdelijke bibiotheek. Wil je bijdragen aan de bibiotheek?
+            De bibliotheek is nog niet af, deze wordt momenteel gebouwd op deze website.
+            In de discord is er al een kleine tijdelijke bibliotheek. Wil je bijdragen aan de bibliotheek?
             Stuur ItzJustMees#1984 een berichtje!
           </p>
 
