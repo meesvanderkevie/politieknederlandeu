@@ -7,5 +7,13 @@ export default {
 }
 </script>
 <style>
+
+    @import url('https://fonts.googleapis.com/css2?family=Gulzar&display=swap');
+
+    h1 {
+        font-family: Gulzar, serif;
+        font-size: 3rem;
+        text-align: center;
+    }
     
 </style>

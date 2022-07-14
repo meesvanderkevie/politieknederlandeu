@@ -1,6 +1,8 @@
 <template lang="">
     <div>
-        <h1>Deze pagina is nog niet klaar!</h1>
+        <h1>Nieuws</h1>
+
+        
     </div>
 </template>
 <script>
@@ -8,6 +10,10 @@ export default {
     
 }
 </script>
-<style lang="">
-    
+<style>
+    h1 {
+        font-family: Gulzar, serif;
+        font-size: 3rem;
+        text-align: center;
+    }
 </style>

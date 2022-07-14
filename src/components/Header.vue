@@ -6,13 +6,13 @@
             <RouterLink to="/">
                 <a>Home</a>
             </RouterLink>
-            <RouterLink to="/about">
+            <RouterLink to="/nieuws">
                 <a>Nieuws</a>
             </RouterLink>
             <RouterLink to="/bibliotheek">
                 <a>Bibliotheek</a>
             </RouterLink>
-            <RouterLink to="/news">
+            <RouterLink to="/over">
                 <a>Over</a>
             </RouterLink>
         </div>
@@ -37,7 +37,7 @@ export default {
     display: grid;
     grid-template-columns: 50px auto;
     padding: 10px;
-    
+    position: relative;
     gap: 2rem;
     background: #780001;
     box-shadow: 0 5px 5px rgba(1, 1, 1, 0.5);
