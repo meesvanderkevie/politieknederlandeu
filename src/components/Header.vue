@@ -6,13 +6,13 @@
             <RouterLink to="/">
                 <a>Home</a>
             </RouterLink>
-            <RouterLink to="/over">
+            <RouterLink to="/nieuws">
                 <a>Nieuws</a>
             </RouterLink>
             <RouterLink to="/bibliotheek">
                 <a>Bibiotheek</a>
             </RouterLink>
-            <RouterLink to="/nieuws">
+            <RouterLink to="/over">
                 <a>Over</a>
             </RouterLink>
         </div>
